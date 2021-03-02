@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/goal-parser-interpretation/
+# Hi there
 def interpret(command):
     parsed = str()
     i = 0
